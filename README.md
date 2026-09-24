@@ -101,7 +101,7 @@ Se presentan los enlaces correspondientes a las capturas de pantalla que evidenc
 
 ## 6\. Video de exposición
 
-**Video público de YouTube:** \[PEGAR AQUÍ EL ENLACE\]
+**Video público de YouTube:** \[[PEGAR AQUÍ EL ENLACE](https://www.youtube.com/watch?v=4uKldHD7_cI)\]
 
 Contenido del video:   
 \- Presentación del equipo (todos con cámaras prendidas)   
@@ -111,11 +111,20 @@ Contenido del video:
 
 ## 7\. Conclusiones
 
-- Conclusión 1: Las estructuras lineales estáticas (vectores y matrices) son fundamentales para almacenar y organizar datos de manera eficiente cuando el tamaño es conocido. En el caso del sistema académico, permiten acceso rápido por índice y facilitan operaciones comunes como búsqueda, inserción y ordenamiento.   
-    
-- Conclusión 2: El ordenamiento burbuja, aunque simple de implementar, tiene una complejidad de O(n²), lo que lo hace ineficiente para grandes volúmenes de datos. Esto evidencia la importancia de seleccionar algoritmos según el contexto y el tamaño de los datos.   
-    
-- Conclusión 3: La solución desarrollada demuestra cómo aplicar conceptos teóricos de estructuras de datos en problemas reales. El sistema puede registrar inscritos, ordenarlos, consultar ocupación de aulas y optimizar el uso de recursos. 
+Conclusión 1:
+Con este trabajo entendimos que las estructuras lineales estáticas, como los arreglos y las matrices, son útiles para organizar información cuando conocemos previamente la cantidad de datos que vamos a manejar. También aprendimos cómo los datos, las estructuras y los algoritmos se relacionan para resolver un problema.
+
+Conclusión 2:
+Al trabajar con el vector, comprendimos cómo los datos pueden organizarse mediante posiciones e índices. También aprendimos a identificar el valor máximo y mínimo y a insertar un nuevo elemento en una posición determinada.
+
+Conclusión 3:
+Al aplicar el método de ordenamiento Burbuja, comprendimos cómo se pueden ordenar los elementos de un vector mediante comparaciones e intercambios sucesivos. Esto nos permitió entender mejor cómo funcionan los algoritmos de ordenamiento en la práctica.
+
+Conclusión 4:
+Con la matriz aprendimos a organizar información en filas y columnas y a recorrer sus posiciones mediante ciclos for anidados. Esto nos permitió calcular los totales por aula y por horario, además de identificar la celda con mayor ocupación.
+
+Conclusión 5:
+Con la Actividad 4 comprendimos que la elección de una estructura depende de cómo están distribuidos los datos. Una matriz dispersa puede ser útil cuando existen muchas posiciones vacías, mientras que una matriz convencional resulta adecuada cuando la mayoría de las posiciones contienen información.
 
 ---
 
