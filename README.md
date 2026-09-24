@@ -12,8 +12,8 @@
 | :---- | :---- | :---- |
 | Geraldine Ana Paola Gomez Atanacio | Responsable de Actividad 1, organización, verificación y edición del video  | Desarrolló la Actividad 1, realizó la organización y coordinación del trabajo, verificó la integración de las actividades y realizó la edición del video final.   |
 | Luisanni Andreina Oviedo Woscichowski | Responsable de Actividad 2 – Parte 1  | Desarrolló los ejercicios de vectores, índices, máximo, mínimo e inserción, implementándolo en Apache NetBeans y gestionó el repositorio de GitHub.  |
-| Milthom wilbert Florez soncco | Responsable de Actividad 2 – Parte 2  | Desarrolló el ordenamiento ascendente y el análisis de eficiencia, implementándolo en Apache NetBeans.  |
-| Carlos Cesar Jimenes Jauregui | Responsable de Actividad 3  | Desarrolló la matriz 4×5, recorridos, totales y cálculo de la mayor ocupación, implementándolo en Apache NetBeans.  |
+| Milthom Wilbert Florez Somcco | Responsable de Actividad 2 – Parte 2  | Desarrolló el ordenamiento ascendente y el análisis de eficiencia, implementándolo en Apache NetBeans.  |
+| Carlos Cesar Jimenez Jauregui | Responsable de Actividad 3  | Desarrolló la matriz 4×5, recorridos, totales y cálculo de la mayor ocupación, implementándolo en Apache NetBeans.  |
 | Luis Cristofer Siñani Yauri | Responsable de Actividad 4, README  | Desarrolló la Actividad 4, organizó el README, archivos y evidencias. |
 
 ## 
