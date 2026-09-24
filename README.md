@@ -3,7 +3,7 @@
 > **Curso:** ALGORITMO Y ESTRUCTURA DE DATOS BASADOS EN INTELIGENCIA ARTIFICIAL   
 > **Código:** 4134  
 > **Evaluación:** \[PA1\]  
-> **Equipo:** \[EQUIPO \#\]  
+> **Equipo:** \[EQUIPO \6\]  
 > 
 
 ## 1\. Integrantes
