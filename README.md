@@ -94,10 +94,10 @@ Se presentan los enlaces correspondientes a las capturas de pantalla que evidenc
 | Integrante | Desarrollo | Pruebas | Documentación | Exposición | Evidencia de participación |
 | :---- | :---- | :---- | :---- | :---- | :---- |
 | Geraldine Ana Paola Gomez Atanacio | Alta  | Alta  | Alta   | Si | Desarrollo de Actividad 1 y unión del video final.  |
-| Luisanni Andreina Oviedo Woscichowski | Alta  | Alta  | Alta   | Si | Desarrollo y pruebas de Actividad 2 – Parte 1\.  |
+| Luisanni Andreina Oviedo Woscichowski | Alta  | Alta  | Alta   | Si | Desarrollo y pruebas de Actividad 2 – Parte 1\. y GitHub.  |
 | Milthom wilbert Florez soncco  | Alta  | Alta  | Alta   | Si | Desarrollo y pruebas de Actividad 2 – Parte 2\. |
 | Carlos Cesar Jimenes Jauregui | Alta  | Alta  | Alta   | Si | Desarrollo y pruebas de Actividad 3\.  |
-| Luis Cristofer Siñani Yauri | Alta  | Alta  | Alta  | Si | Desarrollo de Actividad 4, preparación del README, organización de archivos y GitHub. |
+| Luis Cristofer Siñani Yauri | Alta  | Alta  | Alta  | Si | Desarrollo de Actividad 4, preparación del README, organización de archivos. |
 
 ## 6\. Video de exposición
 
